@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.025" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="TPS 01"
         android:textSize="20sp"
@@ -32,7 +32,7 @@
         app:layout_constraintVertical_bias="0.039" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="RW 001/ RT 008"
         android:textSize="20sp"
@@ -57,7 +57,7 @@
         app:layout_constraintVertical_bias="0.206" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="TPS 02"
         android:textSize="20sp"
@@ -70,7 +70,7 @@
         app:layout_constraintVertical_bias="0.201" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="RW 002/ RT 005"
         android:textSize="20sp"
@@ -95,7 +95,7 @@
         app:layout_constraintVertical_bias="0.386" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="TPS 03"
         android:textSize="20sp"
@@ -108,7 +108,7 @@
         app:layout_constraintVertical_bias="0.363" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="RW 003/ RT 001"
         android:textSize="20sp"
@@ -133,7 +133,7 @@
         app:layout_constraintVertical_bias="0.57" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="TPS 04"
         android:textSize="20sp"
@@ -146,7 +146,7 @@
         app:layout_constraintVertical_bias="0.529" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="RW 004/ RT 006"
         android:textSize="20sp"
@@ -170,7 +170,7 @@
         app:layout_constraintVertical_bias="0.754" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="TPS 05"
         android:textSize="20sp"
@@ -183,7 +183,7 @@
         app:layout_constraintVertical_bias="0.693" />
 
     <TextView
-        android:layout_width="232dp"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:text="RW 005/ RT 004"
         android:textSize="20sp"
